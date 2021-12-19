@@ -7,3 +7,6 @@ Laboratorium 3N
 
 
 ZMIANY 2 , COMMIT 2
+
+ZMIANY 3 , COMMIT 3
+
